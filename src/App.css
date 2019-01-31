@@ -3,6 +3,7 @@
   display: flex;
   flex-flow: row wrap;
   padding: 25px 0 50px;
+  font-family: 'Montserrat', sans-serif;
   justify-content: space-around;
   align-content: flex-start;
 }

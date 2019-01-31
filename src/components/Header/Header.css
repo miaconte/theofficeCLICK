@@ -1,8 +1,9 @@
 .header {
     width: 100%;
     font-size: 2rem;
-    color: #2A77AE;
+    color: #000000;
     margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
   }
   
   .title {
